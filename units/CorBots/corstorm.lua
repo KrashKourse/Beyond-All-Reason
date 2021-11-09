@@ -135,6 +135,7 @@ return {
 				metalpershot = 0,
 				model = "cormissile2.s3o",
 				name = "Rockets",
+                noFriendlyCollide = true,
 				noselfdamage = true,
 				range = 475,
 				reloadtime = 3.8,
